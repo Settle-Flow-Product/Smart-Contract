@@ -1,0 +1,14 @@
+/Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/deps/serde-e80db1d71ec23a0e.d: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/build/serde-6e68e8c1e9dead83/out/private.rs
+
+/Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/deps/libserde-e80db1d71ec23a0e.rlib: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/build/serde-6e68e8c1e9dead83/out/private.rs
+
+/Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/deps/libserde-e80db1d71ec23a0e.rmeta: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/build/serde-6e68e8c1e9dead83/out/private.rs
+
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/build/serde-6e68e8c1e9dead83/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/build/serde-6e68e8c1e9dead83/out

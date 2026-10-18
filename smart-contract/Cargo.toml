@@ -1,0 +1,50 @@
+# The root package is ALSO the workspace root, which is unusual and deliberate.
+#
+# `[profile.release]` only takes effect at a workspace root. If this crate were a member of a
+# workspace rooted somewhere else, the `opt-level = "z"` / `lto` / `strip` settings below would be
+# silently ignored and the wasm would ship several times larger than it needs to be.
+#
+# It is also why the backend is a SEPARATE workspace and the two are never merged. See
+# `../docs/12-deployment.md`.
+
+[workspace]
+# No members. The registry needs no companion contract: it never touches a token, so there is
+# nothing to mock. The demo pays real testnet USDC through its Stellar Asset Contract.
+members = []
+
+[workspace.dependencies]
+# Pinned on Day 1 and not updated mid-sprint. A Soroban SDK breaking change costs one to two days
+# and is a named project risk — see ../docs/15-risks.md.
+soroban-sdk = "27.0.6"
+
+[package]
+name = "payment-request-registry"
+version = "0.1.0"
+edition = "2021"
+publish = false
+license = "Apache-2.0"
+description = "SettleFlow SOW 1 — a payment request registry that never holds funds"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+doctest = false
+
+[dependencies]
+soroban-sdk = { workspace = true }
+
+[dev-dependencies]
+soroban-sdk = { workspace = true, features = ["testutils"] }
+
+[profile.release]
+opt-level = "z"
+overflow-checks = true
+debug = 0
+strip = "symbols"
+debug-assertions = false
+panic = "abort"
+codegen-units = 1
+lto = true
+
+[profile.release-with-logs]
+inherits = "release"
+debug-assertions = true

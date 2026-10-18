@@ -1,0 +1,10 @@
+/Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/deps/soroban_spec_rust-43e5c5b23d57cd8c.d: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/syn_ext.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/trait.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/types.rs
+
+/Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/deps/libsoroban_spec_rust-43e5c5b23d57cd8c.rlib: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/syn_ext.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/trait.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/types.rs
+
+/Users/binh/development/SellarChain/settle-flow/smart-contract/target/release/deps/libsoroban_spec_rust-43e5c5b23d57cd8c.rmeta: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/syn_ext.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/trait.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/types.rs
+
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/lib.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/syn_ext.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/trait.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/soroban-spec-rust-27.0.6/src/types.rs:
